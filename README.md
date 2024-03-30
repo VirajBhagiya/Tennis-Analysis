@@ -8,6 +8,18 @@ Tennis Analysis is a comprehensive tool designed for tennis enthusiasts, analyst
 - **Interactive Visualizations:** Utilize interactive charts and graphs to explore tennis statistics and trends visually. 📉
 - **Player Insights:** Gain insights into player performances, head-to-head records, and career progressions. 👟
 
+## Models Used 🧠
+To achieve our goals, we've employed the latest models:
+
+Player Detection: YOLO v8
+Tennis Ball Detection: Fine-Tuned YOLO ([Dataset](https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection))
+Court Keypoint Extraction: Customized CNNs
+
+## Training Modules 📝
+
+[Tennis Ball Detector](training\tennis_ball_detector_training.ipynb): Training with YOLO
+[Tennis Court Keypoints](training\tennis_court_keypoints_training.ipynb): Training with PyTorch
+
 ## Getting Started 🏁
 
 ### Prerequisites 📋
