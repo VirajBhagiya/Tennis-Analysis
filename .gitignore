@@ -1,0 +1,5 @@
+/training/data
+__pycache__
+/models
+/training/tennis-ball-detection-6
+yolov8x.pt
