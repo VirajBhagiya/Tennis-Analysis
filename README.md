@@ -11,9 +11,9 @@ Tennis Analysis is a comprehensive tool designed for tennis enthusiasts, analyst
 ## Models Used 🧠
 To achieve our goals, we've employed the latest models:
 
-Player Detection: YOLO v8
-Tennis Ball Detection: Fine-Tuned YOLO ([Dataset](https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection))
-Court Keypoint Extraction: Customized CNNs
+Player Detection: YOLO v8  
+Tennis Ball Detection: Fine-Tuned YOLO ([Dataset](https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection))  
+Court Keypoint Extraction: Customized CNNs  
 
 ## Training Modules 📝
 
