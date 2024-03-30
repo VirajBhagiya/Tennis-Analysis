@@ -17,8 +17,8 @@ Court Keypoint Extraction: Customized CNNs
 
 ## Training Modules 📝
 
-- [Tennis Ball Detector](training\tennis_ball_detector_training.ipynb): Training with YOLO
-- [Tennis Court Keypoints](training\tennis_court_keypoints_training.ipynb): Training with PyTorch
+- [Tennis Ball Detector](training/tennis_ball_detector_training.ipynb): Training with YOLO
+- [Tennis Court Keypoints](training/tennis_court_keypoints_training.ipynb): Training with PyTorch
 
 ## Getting Started 🏁
 
